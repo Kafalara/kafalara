@@ -1,5 +1,6 @@
 
-![Karen Larrosa banner](https://github.com/user-attachments/assets/ebfd6287-eef6-4e07-9731-407eec053e8b)
+![Banner para Linkedin Karen Larrosa](https://github.com/user-attachments/assets/7a6d0cb0-16c2-4a02-b0f8-354128e9ad86)
+
 
 
 <h1 align="center">Hola!👋 Mi nombre es Karen Larrosa</h1>
